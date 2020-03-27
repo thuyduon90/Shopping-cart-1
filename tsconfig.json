@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "outDir"    : "mjs",
+        "watch"     : true,
+        "target"    : "ES6",
+        "module"    : "CommonJS",
+        "removeComments": false
+    }
+}
